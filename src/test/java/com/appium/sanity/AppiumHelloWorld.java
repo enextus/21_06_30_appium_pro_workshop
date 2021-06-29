@@ -13,12 +13,7 @@ public class AppiumHelloWorld {
 
     private AndroidDriver driver;
     // private String APP = "https://github.com/cloudgrey-io/the-app/releases/download/v1.7.1/TheApp-v1.7.1.apk";
-    private String APP = "https://github.com/cloudgrey-io/the-app/releases/download/v1.7.1/TheApp-v1.7.1.apk";
-
-    x-special/nautilus-clipboard
-            copy
-    file:///home/enextus/Desktop/v.0.0.3.apk
-
+    private String APP = "https://github.com/   v.0.0.3.apk";
 
     @Before
     public void setUp() throws MalformedURLException {
