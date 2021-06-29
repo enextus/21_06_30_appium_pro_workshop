@@ -39,4 +39,5 @@ public class AppiumHelloWorld {
         Thread.sleep(10000);
         driver.findElementByAccessibilityId("Login Screen").click();
     }
+
 }
