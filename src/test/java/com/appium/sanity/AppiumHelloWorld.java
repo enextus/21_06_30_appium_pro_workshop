@@ -19,8 +19,8 @@ public class AppiumHelloWorld {
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
         capabilities.setCapability("platformName", "Android");
-        capabilities.setCapability("deviceName", "Nexus");
-        capabilities.setCapability("avd", "Nexus");
+        capabilities.setCapability("deviceName", "qa14_mob_nexus5");
+        capabilities.setCapability("avd", "qa14_mob_nexus5");
         capabilities.setCapability("automationName", "UiAutomator2");
         capabilities.setCapability("app", APP);
 
